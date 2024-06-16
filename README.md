@@ -9,5 +9,5 @@ This is example test project for SpringBoot and Kotlin application guides
 
 
 # How to:
-  # Fist you need to create project at IDE (Idea or other). In Idea fast way to do it - use maven archetype of Koltin app - this archetype has minimal of Kotlin dependencies to compile simple application on Kotlin.
+  # First you need to create project by IDE (Idea or other). In Idea fast way to do it - use maven archetype of Koltin app - this archetype has minimal of Kotlin dependencies to compile simple application on Kotlin.
   # Second you need to check  1* And 2* to define needed dependency for your application example. Write your simple Spring App class, write simple Controller which returnes some web template (Thymeleaf or other). Add some Thymeleaf template in resources of your project. Configure and Run app. Checkout by call http://localhost:8080/greeting
